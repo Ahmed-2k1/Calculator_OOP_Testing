@@ -12,7 +12,7 @@ This project is a Python-based calculator that follows object-oriented programmi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Ahmed-2k1/Calculator_OOP_Testing
    cd Calculator_OOP_Testing
   
 ## Running the commands
