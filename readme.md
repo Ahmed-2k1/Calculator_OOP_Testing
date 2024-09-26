@@ -9,15 +9,11 @@ This project is a Python-based calculator that follows object-oriented programmi
 - Follows best practices for OOP, including static methods, class methods, and instance methods.
 - 100% test coverage with `pytest` and parameterized testing.
 
-## Requirements
-- Python 3.x
-- Virtual environment
-
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-link>
-   cd calculator_3_levels
+   git clone 
+   cd Calculator_OOP_Testing
   
 ## Running the commands
 2. python -m venv venv
